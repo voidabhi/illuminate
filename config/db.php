@@ -10,9 +10,9 @@ use Illuminate\Database\Capsule\Manager as Capsule;
 
 $dbConfig = array(
 	'driver'    => 'mysql',
-	'host'      => 'localhost',
-	'database'  => 'olivedb',
-	'username'  => 'root',
+	'host'      => '',
+	'database'  => '',
+	'username'  => '',
 	'password'  => '',
 	'charset'   => 'utf8',
 	'collation' => 'utf8_unicode_ci',
