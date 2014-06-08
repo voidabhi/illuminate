@@ -1,0 +1,12 @@
+{
+    "name": "eloquent",
+    "type": "library",
+    "description": "Eloquent Samples",
+    "keywords": ["orm","models"],
+    "homepage": "http://github.com/voidabhi/eloquent",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0",
+		"illuminate/database":"*"
+    }
+}
