@@ -1,4 +1,4 @@
 Illuminate
 ==========
 
-Useful scripts for using illuminate database!
+Sample project showing usage of illuminate database
