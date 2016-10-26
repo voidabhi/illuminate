@@ -9,6 +9,16 @@ $ composer require "illuminate/html":"5.0.*"
 $ composer install
 ```
 
+### Usage
+
+```
+$users = $db->table('users')
+	->where('is_active', '=', true)
+	->get();
+ 
+var_dump($users)
+```
+
 ### Running
 
 ```bash
