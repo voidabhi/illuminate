@@ -11,7 +11,7 @@ $ composer install
 
 ### Usage
 
-```
+```php
 $users = $db->table('users')
 	->where('is_active', '=', true)
 	->get();
